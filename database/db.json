@@ -1,0 +1,52 @@
+{
+    "clients":[
+        {
+            "id": "1",
+            "userName": "123",
+            "passWord": "123",
+            "wishlist": [],
+            "products": [{"id":1,"title":"Max Pain3","price":"75$","stars":5},{"id":2,"title":"Tomb Raider","price":"100$","stars":3}]
+        },
+        {
+            "id": "2",
+            "userName": "345",
+            "passWord": "345",
+            "wishlist": [],
+            "products": [{"id":1,"title":"Max Pain3","price":"75$","stars":5}]
+        }
+    ],
+    "categories":[
+        {
+            "id":"1",
+            "title":"Computers",
+            "description":"blaadsadasdasdadadasdadadsa",
+            "imageUrl":"Computers.jpg",
+            "products":[{"id":1,"title":"Max Pain3","price":"75$","stars":5},{"id":2,"title":"Tomb Raider","price":"100$","stars":3}]
+        },
+        {
+            "id":"2",
+            "title":"Housing",
+            "description":"blaadsadasdasdadadasdadadsa",
+            "imageUrl":"Housing.jpg",
+            "products":[]
+        },
+        {
+            "id":"3",
+            "title":"Fasion",
+            "description":"blaadsadasdasdadadasdadadsa",
+            "products":[]
+        },
+        {
+            "id":"4",
+            "title":"Technology ",
+            "description":"blaadsadasdasdadadasdadadsa",
+            "products":[]
+        },
+        {
+            "id":"5",
+            "title":"Kids ",
+            "description":"blaadsadasdasdadadasdadadsa",
+            "products":[]
+        }
+    ]
+}
